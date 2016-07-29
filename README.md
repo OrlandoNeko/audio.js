@@ -1,2 +1,0 @@
-# audio.js
-Reproductor
